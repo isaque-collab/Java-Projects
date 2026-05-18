@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre o repositório
+## 🚀 Sobre o repositorio
 
 Este repositório reúne 6 projetos desenvolvidos com **Java**, aplicando estruturas de condição (`if`, `else if`, `else`) em cenários do mundo real — como sistemas financeiros, e-commerce e seguros.
 
